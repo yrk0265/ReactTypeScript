@@ -1,0 +1,15 @@
+.root{
+    flex-grow: 1;
+
+}
+.title {
+    flex-grow: 1;
+}
+.headercolor {
+    background-color:#ffffff !important;
+    color:black;
+}
+.icongray{
+    opacity:.5;
+    color:black;
+}

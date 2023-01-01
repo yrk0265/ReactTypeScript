@@ -1,0 +1,28 @@
+@media only screen and (min-width:0px) and (max-width:600px)
+{
+   .divreSize{ 
+        margin-left:0px;
+        width:90%;
+   }
+}
+@media only screen and (min-width:600px) and (max-width:900px)
+{
+   .divreSize{ 
+        margin-left:0px;
+        width:90%;
+   }
+}
+@media only screen and (min-width:900px) and (max-width:1200px)
+{
+   .divreSize{ 
+        width: 80%;
+        margin-left:20px
+   }
+}
+@media only screen and (min-width:1200px) and (max-width:2500px)
+{
+   .divreSize{ 
+        width: 80%;
+        margin-left:20px
+   }
+}

@@ -1,0 +1,35 @@
+.overrides{
+    margin-bottom: 20px !important;
+}
+@media only screen and (min-width:0px) and (max-width:600px)
+{
+    .Dropdown{ 
+        width:90%;
+    }
+}
+@media only screen and (min-width:600px) and (max-width:900px)
+{
+    .Dropdown{ 
+        width:90%;
+    }
+}
+@media only screen and (min-width:900px) and (max-width:1000px)
+{
+    .Dropdown{ 
+        width:84%;
+    }
+}
+@media only screen and (min-width:1000px) and (max-width:1200px)
+{
+    .Dropdown{ 
+        width:15%;
+        margin-right:20px;
+   }
+}
+@media only screen and (min-width:1200px) and (max-width:1536px)
+{
+    .Dropdown{ 
+        width:15%;
+        margin-right:20px;
+   }
+}
